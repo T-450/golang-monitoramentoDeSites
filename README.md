@@ -1,2 +1,2 @@
 # GO Site Logger
-Programa simples em GO para criar logs de status de sites
+Programa simples em GO para ler e criar logs de status de varios sites
