@@ -1,0 +1,13 @@
+02/12/2020 13:25:43 - site-falso- online false
+02/12/2020 13:25:45 - https://random-status-code.herokuapp.com/- online true
+02/12/2020 13:25:45 - https://www.alura.com.br- online true
+02/12/2020 13:25:50 - https://random-status-code.herokuapp.com/- online true
+02/12/2020 13:25:51 - https://www.alura.com.br- online true
+02/12/2020 13:32:23 - site-falso- online false
+02/12/2020 13:32:25 - https://random-status-code.herokuapp.com/- online true
+02/12/2020 13:32:26 - https://www.alura.com.br- online true
+02/12/2020 13:32:31 - https://random-status-code.herokuapp.com/- online false
+02/12/2020 13:32:32 - https://www.alura.com.br- online true
+02/12/2020 13:32:35 - site-falso- online false
+02/12/2020 13:32:55 - site-falso- online false
+02/12/2020 13:33:55 - site-falso- online false
